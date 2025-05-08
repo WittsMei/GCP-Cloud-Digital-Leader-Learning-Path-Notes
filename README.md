@@ -52,5 +52,6 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 
 - Examples: Presto, Trino, Amazon Athena, Google BigLake, Databricks SQL
 
-![image](https://github.com/user-attachments/assets/4becdcf5-4193-45f1-9d4d-82efcd180e0d)
+![image](https://github.com/user-attachments/assets/37edb1c5-dc72-4864-9be2-c7c8793dc3ea)
+
 
