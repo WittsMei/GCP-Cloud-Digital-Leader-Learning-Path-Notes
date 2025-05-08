@@ -55,12 +55,7 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 ![image](https://github.com/user-attachments/assets/37edb1c5-dc72-4864-9be2-c7c8793dc3ea)
 
 
-
-
-
-
-
-## First, Second, and Third Party Dta ##
+## First, Second, and Third Party Data ##
 
 ![image](https://github.com/user-attachments/assets/7b1990e7-8896-4a40-83a8-ddc7779fc549)
 
