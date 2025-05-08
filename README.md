@@ -19,8 +19,8 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 
 - Perform transformations either:
 
- - Before loading (ETL – Extract, Transform, Load), or
- - After loading (ELT – Extract, Load, Transform).
+  - Before loading (ETL – Extract, Transform, Load), or
+  - After loading (ELT – Extract, Load, Transform).
 
 - Enable data quality checks, lineage tracking, and orchestration.
 
