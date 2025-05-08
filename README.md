@@ -19,13 +19,12 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 
 - Perform transformations either:
 
-    - Before loading (ETL – Extract, Transform, Load), or
-
-    - After loading (ELT – Extract, Load, Transform).
+ - Before loading (ETL – Extract, Transform, Load), or
+ - After loading (ELT – Extract, Load, Transform).
 
 - Enable data quality checks, lineage tracking, and orchestration.
 
-Examples: Apache Airflow, dbt, Fivetran, Airbyte, Talend
+- Examples: Apache Airflow, dbt, Fivetran, Airbyte, Talend
 
 **3️⃣ Data Warehouses – Business Intelligence Layer**
 - Centralize structured, cleaned, and joined data optimized for analytics.
