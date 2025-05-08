@@ -17,10 +17,7 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 **2️⃣ ETL / ELT Tools – Data Movement & Transformation Layer**
 - Extract data from databases and load into downstream systems.
 
-- Perform transformations either:
-
-  - Before loading (ETL – Extract, Transform, Load), or
-  - After loading (ELT – Extract, Load, Transform).
+- Perform transformations either: Before loading (ETL – Extract, Transform, Load), or After loading (ELT – Extract, Load, Transform).
 
 - Enable data quality checks, lineage tracking, and orchestration.
 
