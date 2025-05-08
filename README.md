@@ -60,48 +60,22 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 ### 1️⃣ First-Party Data – Your Own Data
 - Definition: Data you collect directly from your customers, users, or audience through your own channels.
 
-- Sources:
-
-Website analytics (via cookies or user activity)
-
-Mobile apps
-
-CRM systems
-
-Subscription forms
-
-Purchase history
-
-Customer surveys
-
-Support tickets or chat interactions
+- Sources: Website analytics (via cookies or user activity), Mobile apps, CRM systems, Subscription forms, Purchase history, Customer surveys, Support tickets or chat interactions
 
 - Example: A user logs into your e-commerce site and buys a product. The behavior, purchase history, and profile data are first-party data.
 
 ## 2️⃣ Second-Party Data – Someone Else’s First-Party Data (Shared)
 - Definition: Data that another organization collects directly from its users (i.e., their first-party data), but shares or sells directly to you through a partnership.
 
-- Sources:
-
-Strategic data-sharing agreements
-
-Data co-ops
-
-Publishers or retailers with overlapping customer bases
+- Sources: Strategic data-sharing agreements, Data co-ops, Publishers or retailers with overlapping customer bases
 
 - Example: An airline shares customer loyalty data with a hotel chain for a joint loyalty rewards campaign. The hotel is using second-party data from the airline.
 
 
-3️⃣ Third-Party Data – Aggregated Data from External Sources
+## 3️⃣ Third-Party Data – Aggregated Data from External Sources
 - Definition: Data collected by entities that don’t have a direct relationship with the users. It’s aggregated from various sources and sold through data brokers or platforms.
 
-- Sources:
-
-Data aggregators and brokers (e.g., Acxiom, Oracle Data Cloud)
-
-Public records, cookies, SDKs
-
-Surveys, social media scraping, publisher networks
+- Sources: Data aggregators and brokers (e.g., Acxiom, Oracle Data Cloud), Public records, cookies, SDKs, Surveys, social media scraping, publisher networks
 
 - Example: A media buying platform buys demographic and behavioral data from a data broker to run a digital ad campaign. That’s third-party data.
 
