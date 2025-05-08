@@ -1,8 +1,8 @@
 # GCP-Notes
 
-### Databases, Data Warehouses, and Data Lakes
+## Databases, Data Warehouses, and Data Lakes
 
-🧠 Combined Architectures in the Modern Data Stack
+### 🧠 Combined Architectures in the Modern Data Stack ###
 In modern data architectures, organizations typically combine Databases, Data Warehouses, and Data Lakes to support operational efficiency, business intelligence, and advanced analytics such as machine learning.
 
 - **Databases** store real-time operational data.
