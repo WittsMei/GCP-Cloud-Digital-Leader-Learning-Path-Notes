@@ -81,8 +81,8 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 
 
 ## Data value chain
-
-**Data genesis – Data collection – Data processing – Data storage – Data analysis – Data activation**
+### 🔁 The Modern Data Lifecycle
+**Data Genesis → Collection → Processing → Storage → Analysis → Activation**
 
 
 
