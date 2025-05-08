@@ -80,4 +80,9 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Example: A media buying platform buys demographic and behavioral data from a data broker to run a digital ad campaign. That’s third-party data.
 
 
+## Data value chain
+
+**Data genesis – Data collection – Data processing – Data storage – Data analysis – Data activation**
+
+
 
