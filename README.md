@@ -14,4 +14,3 @@
 - Raw data is stored in **Data Lakes**, which can be queried directly using engines like Presto, Athena, or Databricks.
 
 <![Uploading Screenshot 2025-05-08 153327.png…]()>
-
