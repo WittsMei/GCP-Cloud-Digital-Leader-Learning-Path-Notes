@@ -121,7 +121,14 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 ## Why ML Model requires high-quality data
 - An ML model cannot make accurate predictions by learning from incorrect data
 
+**To assess it's quality, data is evaluated against six dimensions**
 
+- Completeness: The completeness of data refers to whether all the required information is present.
+- Uniqueness: Data should be unique. If a model is trained on a data set with a high number of duplicates, the ML model may not be able to learn accurately.
+- Timeliness: The timeliness of the data refers to whether the data is up-to-date and reflects the current state of the phenomenon that's being modeled.
+- Validity: Validity means the data conforms to a set of predefined standards and definitions, such as type and format. Validity also ensures that data is in an acceptable range.
+- Accuracy: Accuracy reflects the correctness of the data.
+- Consistency: The consistency of the data refers to whether the data is uniform and doesn't contain any contradictory information.
 
 
 
