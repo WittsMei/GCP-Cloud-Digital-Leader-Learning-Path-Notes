@@ -118,3 +118,14 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Forms of Activation: Personalization (recommendation systems), Automated workflows (email, ads, alerts), Decision support (dashboards for business users), ML deployment (real-time predictions)
 
 
+## Why ML Model requires high-quality data
+- An ML Model cannot make accurate predictions by learning from incorrect data
+
+
+
+
+
+
+
+
+
