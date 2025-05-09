@@ -119,7 +119,7 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 
 
 ## Why ML Model requires high-quality data
-- An ML Model cannot make accurate predictions by learning from incorrect data
+- An ML model cannot make accurate predictions by learning from incorrect data
 
 
 
