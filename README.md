@@ -136,6 +136,8 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Pre-trained APIs
 - AutoML
 - Custom training
+![Screenshot 2025-05-11 013654](https://github.com/user-attachments/assets/99dee475-cb2e-41e2-aed6-e0d3cd7af281)
+
 
 
 ## Considerations when selecting a Google Cloud AI/ML solutions
