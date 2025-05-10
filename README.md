@@ -131,6 +131,13 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Consistency: The consistency of the data refers to whether the data is uniform and doesn't contain any contradictory information.
 
 
+## ML options on Google Cloud
+- BigQuery ML
+- Pre-trained APIs
+- AutoML
+- Custom training
+
+
 ## Considerations when selecting a Google Cloud AI/ML solutions
 - Speed
 - Differentiation
