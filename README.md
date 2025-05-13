@@ -147,7 +147,12 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Effort
 
 
-
+## Cloud change patterns
+- Move applications first and then change them
+- Change applications before they move
+- Invest in greenfield (Build entirely new applications in the cloud)
+- Invest in brownfield (Work with existing legacy systems, either by migrating or integrating them with new cloud systems)
+- Move applicaitons without any changes
 
 
 
