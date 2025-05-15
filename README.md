@@ -155,6 +155,18 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Move applicaitons without any changes
 
 
+## Key security terms and concepts
+- Privileged access
+- Least privilege
+- Zero-trust architecture
+
+
+
+
+
+
+
+
 
 
 
