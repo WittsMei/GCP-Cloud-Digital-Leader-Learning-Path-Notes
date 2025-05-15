@@ -157,7 +157,7 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 
 ## Key security terms and concepts
 - Privileged access: Grants specific users access to a broader set of resources than ordinary users. (eg: a system administrator)
-- Least privilege: Advocates granting users only the access they need to perform their job responsibilities.
+- Least privilege: Advocates granting users only the access they need to perform their job responsibilities. (eg: Sales representative only have the access to CRM system)
 - Zero-trust architecture: Assumes that no user or device can be trusted by default
 
 
