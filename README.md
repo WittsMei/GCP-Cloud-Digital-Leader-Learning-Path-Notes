@@ -166,6 +166,8 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Integrity
 - Availability
 
+The CIA triad emphasizes the importance of protecting sensitive information, ensuring data accuracy and trustworthiness, and maintaining uninterrupted access to resources and services.
+
 
 
 
