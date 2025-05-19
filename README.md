@@ -169,8 +169,12 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 The CIA triad emphasizes the importance of protecting sensitive information, ensuring data accuracy and trustworthiness, and maintaining uninterrupted access to resources and services.
 
 
-
-
+## Common cybersecurity threats
+- Social engineering
+- Physical damage
+- Malware, Viruses, and Ransomware
+- Vulnerable thrid-party systems
+- Configuration mishaps
 
 
 
