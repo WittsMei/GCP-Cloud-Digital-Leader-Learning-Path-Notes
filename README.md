@@ -161,8 +161,10 @@ In modern data architectures, organizations typically combine Databases, Data Wa
 - Zero-trust architecture: Assumes that no user or device can be trusted by default
 
 
-
-
+## Three essential aspects of security 
+- Confidentiality
+- Integrity
+- Availability
 
 
 
