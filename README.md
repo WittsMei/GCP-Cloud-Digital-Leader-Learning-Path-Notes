@@ -177,4 +177,15 @@ The CIA triad emphasizes the importance of protecting sensitive information, ens
 - Configuration mishaps
 
 
+## “Four Golden Signals” for measuring the performance & reliability of a system
+- latency
+- traffic
+- saturation
+- errors
+
+
+
+
+
+
 
