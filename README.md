@@ -178,10 +178,10 @@ The CIA triad emphasizes the importance of protecting sensitive information, ens
 
 
 ## “Four Golden Signals” for measuring the performance & reliability of a system
-- latency
-- traffic
-- saturation
-- errors
+- Latency: Latency measures how long it takes for a particular part of a system to return a result.
+- Traffic: Traffic measures how many requests reach your system.
+- Saturation: Saturation measures how close to capacity a system is.
+- Errors: Errors are events that measure system failures or other issues.
 
 
 
