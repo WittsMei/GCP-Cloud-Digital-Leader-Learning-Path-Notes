@@ -184,7 +184,12 @@ The CIA triad emphasizes the importance of protecting sensitive information, ens
 - Errors: Errors are events that measure system failures or other issues.
 
 
-
+## Key design considerations for resilient infrasturcture
+- **Redundancy** enhances system reliability and mitigates the impact of single points of failure.
+- **Replication** involves creating multiple copies of data or services and distributing them across different servers or locations.
+- Cloud service providers offer multiple **regions** or data center locations spread across different geographic areas.
+- Building a **scalable infrastructure** allows organizations to handle varying workloads and accommodate increased demand without compromising performance or availability.
+- **Backups** should be stored in geographically separate locations to protect against regional outages or disasters.
 
 
 
