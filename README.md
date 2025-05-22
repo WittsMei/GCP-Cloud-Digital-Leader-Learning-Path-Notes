@@ -1,4 +1,4 @@
-# GCP-Notes
+# GCP-Cloud-Digital-Leader-Learning-Path-Notes
 
 ## Databases, Data Warehouses, and Data Lakes
 
